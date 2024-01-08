@@ -34,6 +34,7 @@ Parameters:
         - ap-southeast-1
         - cn-beijing
         - cn-shenzhen
+        - us-east-1
     serviceName:
       title: 服务名
       type: string
